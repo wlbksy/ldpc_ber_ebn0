@@ -1,0 +1,1 @@
+#ifndef BP_decode#define BP_decode 1const double EPS = 1e-20;void BP( int M, int N, int size, double f0[], int HI[], int HJ[], int max_iter, int output[]);#endif
